@@ -3,4 +3,7 @@ grafana
 new relics
 app dynmics 
 prometheous 
-nagios 
+nagios
+another monitoring tool is PRTG
+it's also very good
+and i higly recommend it for our engineers

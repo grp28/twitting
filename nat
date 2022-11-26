@@ -1,1 +1,2 @@
 network add translation
+PAT port address translation is a type of Nat.
